@@ -4,7 +4,11 @@ Brain-Computer Interface, ADS1299
 This code is for STM32F407VE microcontroller to receive data from ADS1299 over 8 channels. 
 =====================
 
-<https://github.com/Ildaron/ironbci/edit/master/README.md#L18-L20>
+<https://github.com/Ildaron/ironbci/edit/master/README.md#L18>
+
+[![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp (https://github.com/Ildaron/ironbci/edit/master/README.md#L18)  
+
+
 
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
 
