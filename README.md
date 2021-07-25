@@ -7,7 +7,7 @@
 4. Description of code ADS_1299.c 
 5. STM32 programming
 6. Signal processing, GUI
-
+7. Citation
 
 ####  1. Reprasorium structures, How it Works
 Files   
