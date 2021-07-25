@@ -3,8 +3,6 @@ Brain-Computer Interface, ADS1299
 
 This code is for STM32F407VE microcontroller to receive data from ADS1299 over 8 channels. 
 =====================
-=== Agriculture tasks ===
-Laser beams were used to neutralize weeds in agriculture tasks. Machine vision detects weeds and after that laser neutralize them by power beams <ref>{{cite web |url=https://www.mdpi.com/2073-4395/10/10/1616/ |title=A Concept of a Compact and Inexpensive Device for Controlling Weeds with Laser Beams |publisher=mdpi.com |access-date=2021-04-12|url-status=live }}</ref> 
 
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
 
