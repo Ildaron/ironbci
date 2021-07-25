@@ -45,7 +45,7 @@ Data transfer starts after receiving by the microcontroller - "s", ends after re
 Data is transmitted via Serial with baud rate - 115200  
 
 
-####Hardware demonstarations     
+#### Hardware demonstarations     
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)  
-####Signal processing by brainflov via timeflux (https://timeflux.io/)  
+#### Signal processing by brainflov via timeflux (https://timeflux.io/)  
 [![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)  
