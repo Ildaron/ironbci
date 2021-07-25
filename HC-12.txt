@@ -1,0 +1,16 @@
+On a HC-12 
+set connect to GND
+Voltage 3.3 V
+
+SEND
+AT+B115200
+AT+C001
+AT+FU3
+AT+RP:+20dBm
+
+
+Receive (AT+RX)
+OK+B115200
+OK+RC001
+OK+RP:+20dBm
+OK+FU3
