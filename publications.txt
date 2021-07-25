@@ -1,1 +1,5 @@
-
+Rakhmatulin, I. (2020). The electronic board to replace the reference voltage on the earlobe for EEG measurement. Measurement, 108673 https://www.sciencedirect.com/science/article/abs/pii/S0263224120311854?via%3Dihub
+https://doi.org/10.1016/j.measurement.2020.108673
+Rakhmatulin, I. (2020). Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism
+DOI: 10.5281/zenodo.4107349 , preprint
+Rakhmatulin, I., & Y, Gan. (2021). Review Dry and Non-Contact EEG Electrodes for 2010-2021 Years. doi: 10.20944/preprints202103.0555.v1
