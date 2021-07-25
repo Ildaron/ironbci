@@ -17,7 +17,7 @@ Files
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
 
 ####  2.  General pin information about ADS1299 signals
-1.1. Reset - to the low position - reset all settings
+1.1. Reset - to the low position - reset all settings  
 1.2.DRDY output - goes high when conversion starts and low when data is ready  
 1.3  Two ways to read data:  
       - RDATA C1 - continuous read command  
