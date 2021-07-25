@@ -38,7 +38,7 @@ Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 
 #### 3.Description of code ADS_1299.c  
 Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "s"  
 Data is transmitted via Serial with baud rate - 115200  
-Hardware demonstarations 
+Hardware demonstarations     
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)
-Signal processing by brainflov via timeflux (https://timeflux.io/)
+Signal processing by brainflov via timeflux (https://timeflux.io/)  
 [![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)
