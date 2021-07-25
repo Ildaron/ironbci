@@ -1,5 +1,5 @@
-===================== Brain-Computer Interface, 
-####  ADS1299 and STM32F407VE for ironbci 
+Brain-Computer Interface I_ron-bci ===================== 
+####  ADS1299 and STM32F407VE  
 
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
 
