@@ -1,4 +1,4 @@
-### Brain-Computer Interface I_ron-bci ironbci.com [ironbci.com](https://ironbci.com)
+### Brain-Computer Interface I_ron-bci [ironbci.com](https://ironbci.com)
 
 ####  ADS1299 and STM32F407VE  
 1. Reprasorium structures, How it Works
