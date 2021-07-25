@@ -1,7 +1,7 @@
 ### Brain-Computer Interface I_ron-bci [ironbci.com](https://ironbci.com)
 
 ####  ADS1299 and STM32F407VE  
-1. Reprasorium structures, How it Works
+1. [Reprasorium structures, How it Works](L:23)
 2. General pin information about ADS1299 signals
 3. Configuration of control registers  
 4. Description of code ADS_1299.c 
@@ -9,7 +9,7 @@
 6. Signal processing, GUI
 
 
-####  1. Reprasorium structures
+####  1. Reprasorium structures, How it Works
 Files   
 1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 9.3.0  
 1.ADS_1299.ioc - STM32CubeMX
