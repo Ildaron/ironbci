@@ -39,6 +39,6 @@ Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 
 Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "s"  
 Data is transmitted via Serial with baud rate - 115200  
 
-[![Hardware demonstrations](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/kfbvYXvBCJk)
+[![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware.bmp)](https://youtu.be/kfbvYXvBCJk)
 
 [![Sowtware demonstrations](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/y1O7FNJLeh4)
