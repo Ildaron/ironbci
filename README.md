@@ -6,7 +6,7 @@ This code is for STM32F407VE microcontroller to receive data from ADS1299 over 8
 
 <https://github.com/Ildaron/ironbci/edit/master/README.md#L18>
 
-[![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://github.com/Ildaron/ironbci/edit/master/README.md#L18)  
+[![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](#L18)  
 
 
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
