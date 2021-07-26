@@ -53,7 +53,12 @@ Data transfer starts after receiving by the microcontroller - "s", ends after re
 Data is transmitted via Serial with baud rate - 115200  
 
 #### 5. STM32 programming
-For programm hex file to STM32 can be used - ESP-01
+For programm hex file to STM32 can be used - ESP-01  
+RST    
+TCK    
+gnd   
+TMS  
+
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 
