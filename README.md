@@ -3,8 +3,8 @@
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view..jpg "general view")​
 
 
- 
-1. Reprasorium structures, How it Works
+####  ADS1299 and STM32F407VE 
+### Reprasorium structures, How it Works [ironbci.com](#L10)
 4. General pin information about ADS1299 signals
 5. Configuration of control registers  
 6. Description of code ADS_1299.c 
@@ -12,7 +12,7 @@
 8. Signal processing, GUI
 9. Citation
 10. Contacts 
-####  ADS1299 and STM32F407VE 
+
 ####  1. Reprasorium structures, How it Works
 Files   
 1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 9.3.0  
