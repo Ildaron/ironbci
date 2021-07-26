@@ -6,7 +6,7 @@
 ####  ADS1299 and STM32F407VE 
 1. [Reprasorium structures, How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-reprasorium-structures-how-it-works)  
 2. [General pin information about ADS1299 signals](https://github.com/Ildaron/ironbci#2--general-pin-information-about-ads1299-signals)   
-3. Configuration of control registers  
+3. [Configuration of control registers ](https://github.com/Ildaron/ironbci#3-configuration-of-control-registers)     
 4. Description of code ADS_1299.c 
 5. STM32 programming
 6. Signal processing, GUI
@@ -40,12 +40,12 @@ Three bytes of register configuration
 0b11010100
 0b11100000
 
-First command byte: 010r rrrr, where r rrrr is the starting register address.
-Second byte of the command: 000n nnnn, where n nnnn is the number of registers to be written - 1.
+First command byte: 010r rrrr, where r rrrr is the starting register address.  
+Second byte of the command: 000n nnnn, where n nnnn is the number of registers to be written - 1.  
 2.2 Reading from a register, similarly but the first four bits from a byte of the following format
-BYTE 1 = 0010 0000 
+BYTE 1 = 0010 0000   
 
-Baud rate
+Baud rate  
 Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 16 MHz, one byte can be transmitted in 500 ns. This byte transfer time does not conform to the tSDECODE specification; therefore a delay must be inserted so that the end of the second byte arrives 1.46 µs later.  
 
 #### 4. Description of code ADS_1299.c  
