@@ -1,6 +1,6 @@
 ### Brain-Computer Interface [ironbci.com](https://ironbci.com)
                             
-![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view.jpg "general view")​
+![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view..jpg "general view")​
 
 
 ####  ADS1299 and STM32F407VE  
