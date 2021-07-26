@@ -1,5 +1,8 @@
 ### Brain-Computer Interface [ironbci.com](https://ironbci.com)
-                                     image
+                            
+![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view.jpg "general view")​
+
+
 ####  ADS1299 and STM32F407VE  
 1. Reprasorium structures, How it Works
 2. General pin information about ADS1299 signals
