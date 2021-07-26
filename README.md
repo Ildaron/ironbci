@@ -6,13 +6,14 @@
 ####  ADS1299 and STM32F407VE  
 1. Reprasorium structures, How it Works
 2. h2 id="a1"> Reprasorium structures, How it Works</h2>
-3. General pin information about ADS1299 signals
-4. Configuration of control registers  
-5. Description of code ADS_1299.c 
-6. STM32 programming
-7. Signal processing, GUI
-8. Citation
-9. Contacts 
+3. a href="#a1">Reprasorium structures, How it Works</a
+4. General pin information about ADS1299 signals
+5. Configuration of control registers  
+6. Description of code ADS_1299.c 
+7. STM32 programming
+8. Signal processing, GUI
+9. Citation
+10. Contacts 
 
 ####  1. Reprasorium structures, How it Works
 Files   
