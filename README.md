@@ -23,14 +23,15 @@ Files
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
 
 ####  2.  General pin information about ADS1299 signals
-![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm.bmp "stm32")​
-1.1. Reset - to the low position - reset all settings  
-1.2.DRDY output - goes high when conversion starts and low when data is ready  
-1.3  Two ways to read data:  
+![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm.bmp "stm32")​  
+SPI2 for communicate with ADS1299  
+UAART4 for send data to HC-12
+2.1.DRDY output - goes high when conversion starts and low when data is ready  
+2.2  Two ways to read data:  
       - RDATA C1 - continuous read command  
       - RDATA data read which requires a command to load the input offset  
-1.4. The amount of input data is 24 bits * 8 = 192 bits, and 24 status bits, in total we get 216 bits  
-1.5 To receive data from the device after executing the RDATAC command, the START pin must be high, or a START command has been issued.  
+2.3. The amount of input data is 24 bits * 8 = 192 bits, and 24 status bits, in total we get 216 bits  
+2.4 To receive data from the device after executing the RDATAC command, the START pin must be high, or a START command has been issued.  
 
 #### 3. Configuration of control registers  
 2.1 Writing to the register  
