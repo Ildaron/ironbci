@@ -7,8 +7,8 @@
 1. [Reprasorium structures, How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-reprasorium-structures-how-it-works)  
 2. [General pin information about ADS1299 signals](https://github.com/Ildaron/ironbci#2--general-pin-information-about-ads1299-signals)   
 3. [Configuration of control registers](https://github.com/Ildaron/ironbci#3-configuration-of-control-registers)     
-4. [ Description of code ADS_1299.c](https://github.com/Ildaron/ironbci#4-description-of-code-ads_1299c)    
-5. STM32 programming
+4. [Description of code ADS_1299.c](https://github.com/Ildaron/ironbci#4-description-of-code-ads_1299c)    
+5. [STM32 programming](https://github.com/Ildaron/ironbci#5-stm32-programming)  
 6. Signal processing, GUI
 7. Citation
 8. Contacts 
