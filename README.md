@@ -23,7 +23,7 @@ Files
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
 
 ####  2.  General pin information about ADS1299 signals
-![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
+![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm.bmp "stm32")​  
 SPI2 for communicate with ADS1299  
 UAART4 for send data to HC-12
 2.1.DRDY output - goes high when conversion starts and low when data is ready  
@@ -51,6 +51,10 @@ Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 
 #### 4. Description of code ADS_1299.c  
 Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "s"  
 Data is transmitted via Serial with baud rate - 115200  
+
+#### 5. STM32 programming
+For programm hex file to STM32 can be used - ESP-01
+![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl.bmp "stm32")
 
 
 #### Hardware demonstarations     
