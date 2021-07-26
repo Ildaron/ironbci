@@ -14,7 +14,7 @@
 8. Contacts 
 
 ####  1. Reprasorium structures, How it Works
-Here provides all the information you need to develop a brain computer interface. In accordance with the presented license, MIT, using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
+Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
 
 Files   
 1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 9.3.0  
