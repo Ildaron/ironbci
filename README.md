@@ -11,6 +11,7 @@
 5. STM32 programming
 6. Signal processing, GUI
 7. Citation
+8. Contacts 
 
 ####  1. Reprasorium structures, How it Works
 Files   
