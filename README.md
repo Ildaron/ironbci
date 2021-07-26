@@ -5,7 +5,7 @@
 
 ####  ADS1299 and STM32F407VE 
 1. [Reprasorium structures, How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-reprasorium-structures-how-it-works)  
-2. General pin information about ADS1299 signals
+2. [General pin information about ADS1299 signals](https://github.com/Ildaron/ironbci#2--general-pin-information-about-ads1299-signals)   
 3. Configuration of control registers  
 4. Description of code ADS_1299.c 
 5. STM32 programming
@@ -23,6 +23,7 @@ Files
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
 
 ####  2.  General pin information about ADS1299 signals
+![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm.bmp "stm32")​
 1.1. Reset - to the low position - reset all settings  
 1.2.DRDY output - goes high when conversion starts and low when data is ready  
 1.3  Two ways to read data:  
