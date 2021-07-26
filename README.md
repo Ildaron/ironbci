@@ -5,15 +5,18 @@
 
 ####  ADS1299 and STM32F407VE 
 1. [Reprasorium structures, How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-reprasorium-structures-how-it-works)
-4. General pin information about ADS1299 signals
-5. Configuration of control registers  
-6. Description of code ADS_1299.c 
-7. STM32 programming
-8. Signal processing, GUI
-9. Citation
-10. Contacts 
+Here provides all the information you need to develop a brain computer interface. In accordance with the presented license, MIT, using the files and documentation everybody can create a brain-computer interface. Using gerber files, you can order the production of psb plates in any producer factory.
+2. General pin information about ADS1299 signals
+3. Configuration of control registers  
+4. Description of code ADS_1299.c 
+5. STM32 programming
+6. Signal processing, GUI
+7. Citation
+8. Contacts 
 
 ####  1. Reprasorium structures, How it Works
+Here provides all the information you need to develop a brain computer interface. In accordance with the presented license, MIT, using the files and documentation everybody can create a brain-computer interface. Using gerber files, you can order the production of psb plates in any producer factory.
+
 Files   
 1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 9.3.0  
 1.ADS_1299.ioc - STM32CubeMX
