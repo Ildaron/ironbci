@@ -17,7 +17,7 @@
 Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
 
 Files   
-1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 9.3.0  
+1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 F407VE
 1.ADS_1299.ioc - STM32CubeMX
 
 Data processing due BrainFlow https://brainflow.readthedocs.io/en/stable/  board_id: 17
