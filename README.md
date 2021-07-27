@@ -63,10 +63,10 @@ TMS
 
 
 #### 6 Hardware and Signal processing demonstarations  
-Hardware demonstarations
-[![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)  
-Signal processing by brainflov via timeflux (https://timeflux.io/)  
-[![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)    
+Hardware demonstarations  
+[![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)    
+Signal processing by brainflov via timeflux (https://timeflux.io/)    
+[![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)      
 
 
 #### 7 Citation  
