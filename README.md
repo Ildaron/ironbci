@@ -42,7 +42,7 @@ Three bytes of register configuration
 
 First command byte: 010r rrrr, where r rrrr is the starting register address.  
 Second byte of the command: 000n nnnn, where n nnnn is the number of registers to be written - 1.  
-2.2 Reading from a register, similarly but the first four bits from a byte of the following format
+Reading from a register, similarly but the first four bits from a byte of the following format
 BYTE 1 = 0010 0000   
 
 Baud rate  
