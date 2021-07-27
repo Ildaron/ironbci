@@ -10,8 +10,8 @@
 4. [Description of code ADS_1299.c](https://github.com/Ildaron/ironbci#4-description-of-code-ads_1299c)    
 5. [STM32 programming](https://github.com/Ildaron/ironbci#5-stm32-programming)  
 6. [Hardware and Signal processing demonstarations](https://github.com/Ildaron/ironbci#6-hardware-and-signal-processing-demonstarations)     
-7. [Citation](https://github.com/Ildaron/ironbci#6-hardware-and-signal-processing-demonstarations)   
-8. [Contacts](https://github.com/Ildaron/ironbci#6-hardware-and-signal-processing-demonstarations)     
+7. [Citation](https://github.com/Ildaron/ironbci/blob/master/README.md#7-citation)   
+8. [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
 ####  1. Reprasorium structures, How it Works
 Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
