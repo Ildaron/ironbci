@@ -4,7 +4,7 @@
 
 
 ####  ADS1299 and STM32F407VE 
-1. [Reprasorium structures, How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-reprasorium-structures-how-it-works)  
+1. [How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-reprasorium-structures-how-it-works)  
 2. [General pin information about ADS1299 signals](https://github.com/Ildaron/ironbci#2--general-pin-information-about-ads1299-signals)   
 3. [Configuration of control registers](https://github.com/Ildaron/ironbci#3-configuration-of-control-registers)     
 4. [Description of code ADS_1299.c](https://github.com/Ildaron/ironbci#4-description-of-code-ads_1299c)    
@@ -13,7 +13,7 @@
 7. [Citation](https://github.com/Ildaron/ironbci/blob/master/README.md#7-citation)   
 8. [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
-####  1. Reprasorium structures, How it Works
+####  1. How it Works
 Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
 
 Files   
