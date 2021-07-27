@@ -9,8 +9,9 @@
 3. [Configuration of control registers](https://github.com/Ildaron/ironbci#3-configuration-of-control-registers)     
 4. [Description of code ADS_1299.c](https://github.com/Ildaron/ironbci#4-description-of-code-ads_1299c)    
 5. [STM32 programming](https://github.com/Ildaron/ironbci#5-stm32-programming)  
-6. Citation
-7. Contacts 
+6. Hardware and Signal processing demonstarations  
+7. Citation
+8. Contacts 
 
 ####  1. Reprasorium structures, How it Works
 Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
@@ -61,7 +62,12 @@ TMS
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 
-#### Hardware demonstarations     
+#### 6 Hardware and Signal processing demonstarations  
+Hardware demonstarations
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)  
-#### Signal processing by brainflov via timeflux (https://timeflux.io/)  
+Signal processing by brainflov via timeflux (https://timeflux.io/)  
 [![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)  
+
+
+
+
