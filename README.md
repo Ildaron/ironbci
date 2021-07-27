@@ -49,7 +49,7 @@ Baud rate
 Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 16 MHz, one byte can be transmitted in 500 ns. This byte transfer time does not conform to the tSDECODE specification; therefore a delay must be inserted so that the end of the second byte arrives 1.46 µs later.  
 
 #### 4. Description of code ADS_1299.c  
-Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "s"  
+Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "p"  
 Data is transmitted via Serial with baud rate - 115200  
 
 #### 5. STM32 programming
