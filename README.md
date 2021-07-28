@@ -15,24 +15,24 @@
 
 ####  1. How it Works
 Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
-1 step - make PCB boards order in PCB manufacturer, like pcbway.com or seeedstudio.com 
-Gerbers source
-https://github.com/Ildaron/ironbci/tree/master/gerber_files
 
-2 Step 
-By electrical scheme create BOM file for PCB boards 
-https://github.com/Ildaron/ironbci/tree/master/electrical_scheme
+1 step - make PCB boards order in PCB manufacturer, like pcbway.com or seeedstudio.com   
+Gerbers source  
+https://github.com/Ildaron/ironbci/tree/master/gerber_files  
 
-and make order in PCB manufacturer for Assembly Service
+2 Step   
+By electrical scheme create BOM file for PCB boards   
+https://github.com/Ildaron/ironbci/tree/master/electrical_scheme  
+and make order in PCB manufacturer for Assembly Service  
 
-3 Step when boards were received 
-Upload Hex file to STM32F407VE 
+3 Step, when boards were received   
+Upload Hex file to STM32F407VE by ST-LINK V2 RST  
 
-4 Step
-By brainflow instructions (https://brainflow.readthedocs.io/en/stable/) start use device. 
-board_id: 17
+4 Step  
+By brainflow instructions (https://brainflow.readthedocs.io/en/stable/) start use device.   
+board_id: 17  
 
-You can re-write code and create a new hex file if will be necessary
+You can re-write code and create a new hex file if will be necessary  
 Files   
 1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 F407VE
 1.ADS_1299.ioc - STM32CubeMX
