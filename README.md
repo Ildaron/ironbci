@@ -16,7 +16,8 @@
 ####  1. How it Works
 Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface. With gerber files it is possible to create PCB boards.
 
-1 step - make PCB boards order in PCB manufacturer, like pcbway.com or seeedstudio.com   
+1 step   
+Make PCB boards order in PCB manufacturer, like pcbway.com or seeedstudio.com   
 Gerbers source  
 https://github.com/Ildaron/ironbci/tree/master/gerber_files  
 
