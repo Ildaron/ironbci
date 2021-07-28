@@ -17,21 +17,21 @@
 Here provides all the information you need to develop a brain computer interface. In accordance with the presented license (MIT), using the files and documentation everybody can create a brain-computer interface.
 
 #### Instructions
-# 1 step   
+##### 1 step   
 Make PCB boards order in PCB manufacturer, like pcbway.com or seeedstudio.com   
 Gerbers source  
 https://github.com/Ildaron/ironbci/tree/master/gerber_files  
 
-# 2 Step   
+#####  2 Step   
 By electrical scheme create BOM file for PCB boards   
 https://github.com/Ildaron/ironbci/tree/master/electrical_scheme  
 and make order in PCB manufacturer for Assembly Service  
 
-# 3 Step 
+#####  3 Step 
 When boards were received   
 Upload Hex file to STM32F407VE by ST-LINK V2 RST  
 
-# 4 Step  
+#####  4 Step  
 By brainflow instructions (https://brainflow.readthedocs.io/en/stable/) start use device.   
 board_id: 17  
 
