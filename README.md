@@ -38,7 +38,7 @@ board_id: 17
 You can re-write code and create a new hex file if will be necessary  
 Files   
 1.ADS_1299.c   - code for Atollic TrueSTUDIO for STM32 F407VE
-1.ADS_1299.ioc - STM32CubeMX
+1.ADS_1299.ioc - file for STM32CubeMX
 
 
 
