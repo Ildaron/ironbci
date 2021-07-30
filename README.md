@@ -23,8 +23,7 @@ Make PCB boards order in PCB manufacturer, like pcbway.com or seeedstudio.com
 
 
 #####  2 Step   
-By electrical scheme create BOM file for PCB boards   
-https://github.com/Ildaron/ironbci/tree/master/electrical_scheme  
+By [electrical scheme](https://github.com/Ildaron/ironbci/tree/master/electrical_scheme)   create BOM file for PCB boards   
 and make order in PCB manufacturer for Assembly Service  
 
 #####  3 Step 
