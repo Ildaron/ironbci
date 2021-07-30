@@ -32,6 +32,12 @@ By [electrical scheme](https://github.com/Ildaron/ironbci/tree/master/electrical
 When boards were received   
 Upload [Hex file](https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) to STM32F407VE by ST-LINK V2 RST  
 
+For programm hex file to STM32 can be used - ST-LINK V2 
+RST    
+TCK    
+gnd   
+TMS  
+![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 #####  4 Step  
 By [brainflow](https://brainflow.readthedocs.io/en/stable/) instructions  start use device.   
@@ -74,16 +80,6 @@ Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 
 #### 4. Description of code ADS_1299.c  
 Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "p"  
 Data is transmitted via Serial with baud rate - 115200  
-
-#### 5. STM32 programming
-For programm hex file to STM32 can be used - ST-LINK V2 
-RST    
-TCK    
-gnd   
-TMS  
-
-![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
-
 
 #### 6. Hardware and Signal processing demonstarations  
 Hardware demonstarations  
