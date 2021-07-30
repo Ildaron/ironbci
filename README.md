@@ -32,7 +32,7 @@ Upload [Hex file](https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) to
 
 
 #####  4 Step  
-By [brainflow]((https://brainflow.readthedocs.io/en/stable/) instructions  start use device.   
+By [brainflow](https://brainflow.readthedocs.io/en/stable/) instructions  start use device.   
  
 board_id: 17  
 
