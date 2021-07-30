@@ -30,6 +30,7 @@ and make order in PCB manufacturer for Assembly Service
 #####  3 Step 
 When boards were received   
 Upload Hex file to STM32F407VE by ST-LINK V2 RST  
+https://github.com/Ildaron/ironbci/blob/master/ironbci.hex
 
 #####  4 Step  
 By brainflow instructions (https://brainflow.readthedocs.io/en/stable/) start use device.   
