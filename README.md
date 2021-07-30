@@ -19,8 +19,8 @@ Here provides all the information you need to develop a brain computer interface
 #### Instructions
 ##### 1 step   
 Make PCB boards order in PCB manufacturer, like pcbway.com or seeedstudio.com   
-Gerbers source  
-https://github.com/Ildaron/ironbci/tree/master/gerber_files  
+[Gerbers source](https://github.com/Ildaron/ironbci/tree/master/gerber_files)  
+
 
 #####  2 Step   
 By electrical scheme create BOM file for PCB boards   
