@@ -81,14 +81,14 @@ Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 
 Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "p"  
 Data is transmitted via Serial with baud rate - 115200  
 
-#### 6. Hardware and Signal processing demonstarations  
+#### 5. Hardware and Signal processing demonstarations  
 Hardware demonstarations  
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)    
 Signal processing by brainflov via timeflux (https://timeflux.io/)    
 [![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)      
 
 
-#### 7. Citation  
+#### 6. Citation  
 Original article coming soon  
-#### 8. Contacts  
+#### 7. Contacts  
 For any questions write to me by mail - ildar.o2010@yandex.ru   
