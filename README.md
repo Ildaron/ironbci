@@ -1,4 +1,4 @@
-### Brain-Computer Interface [ironbci.com](https://ironbci.com)
+# Brain-Computer Interface [ironbci.com](https://ironbci.com)
                             
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view.jpg "general view")​
 
