@@ -24,7 +24,7 @@ Example of our order in [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid=17
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/gerber_DIY.bmp "Gerber")​
 
 #####  2 Step   
-By [electrical scheme](https://github.com/Ildaron/ironbci/tree/master/electrical_scheme) create BOM file for PCB boards and make order in PCB manufacturer for Assembly Service  
+By [electrical scheme](https://github.com/Ildaron/ironbci/tree/master/electrical_scheme) create BOM file for PCB boards and use PCB manufacturer - "Assembly Service"  
 
 
 
