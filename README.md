@@ -14,8 +14,8 @@
 8. [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
 ####  1. How it Works
-Here provides all the information you need to develop a brain computer interface. In accordance with the presented [GNU license]  (https://github.com/Ildaron/ironbci/blob/master/license.txt) , using the files and documentation everybody can create a brain-computer interface.  
-[GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)  
+Here provides all the information you need to develop a brain computer interface. In accordance with the presented [GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt), using the files and documentation everybody can create a brain-computer interface.  
+
 #### Instructions
 ##### 1 step   
 Make PCB boards order in PCB manufacturer with presented
