@@ -33,7 +33,7 @@ When boards were received
 Upload [Hex file](https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) to STM32F407VE by ST-LINK V2 RST  
 
 For programm hex file to STM32 can be used - ST-LINK V2 
-Need connect only 3 pins:  
+Need connect only 4 pins:  
                         - RST      
                         - TCK    
                         - gnd   
