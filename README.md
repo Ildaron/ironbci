@@ -60,9 +60,9 @@ Files
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
 SPI2 for communicate with ADS1299  
 UAART4 for send data to HC-12
-2.1.DRDY output - goes high when conversion starts and low when data is ready  
-2.2  Two ways to read data:  
-      - RDATA C1 - continuous read command  
+2.1.DRDY output - goes high when conversion starts and low when data is ready    
+2.2  Two ways to read data:    
+      - RDATA C1 - continuous read command    
       - RDATA data read which requires a command to load the input offset  
 2.3. The amount of input data is 24 bits * 8 = 192 bits, and 24 status bits, in total we get 216 bits  
 2.4 To receive data from the device after executing the RDATAC command, the START pin must be high, or a START command has been issued.  
