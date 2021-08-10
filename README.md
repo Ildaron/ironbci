@@ -42,7 +42,7 @@ Need connect only 4 pins:
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 #####  4 Step  
-By [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with  [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html)   start use device.   
+By [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with  [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html)   start to use device.   
 
 
    
