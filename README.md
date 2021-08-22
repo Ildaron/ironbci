@@ -25,7 +25,7 @@ An example of our order at [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid
 BOM files can be created by [electrical schemes](https://github.com/Ildaron/ironbci/tree/master/electrical_scheme)
 
 #####  3 Step 
-[Hex file] can be uploaded (https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) to STM32F407VE by ST-LINK V2 RST  
+[Hex file] (https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) can be uploaded to STM32F407VE by ST-LINK V2 RST  
  With the next 4 pins:  
                         - RST      
                         - TCK    
