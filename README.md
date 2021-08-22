@@ -14,7 +14,7 @@
 -  [Citation](https://github.com/Ildaron/ironbci/blob/master/README.md#7-citation)   
 -  [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
-Low-cost brain computer interface with [GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)
+[GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)
 #### Instructions
 ##### 1 step   
 [Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files) for PCB boards.  
