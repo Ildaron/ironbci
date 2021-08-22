@@ -46,31 +46,21 @@ Files
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
 SPI2 for communicate with ADS1299  
 UAART4 for send data to HC-12
-2.1.DRDY output - goes high when conversion starts and low when data is ready    
+2.1.DRDY output - becomes high when conversion starts and low when data is ready  
 2.2  Two ways to read data:    
-      - RDATA C1 - continuous read command    
-      - RDATA data read which requires a command to load the input offset  
-2.3. The amount of input data is 24 bits * 8 = 192 bits, and 24 status bits, in total we get 216 bits  
-2.4 To receive data from the device after executing the RDATAC command, the START pin must be high, or a START command has been issued.  
+      - RDATA C1 - continuous read command;    
+      - Reading RDATA data that requires a command to load an input offset.
+2.3. The amount of input data - 24 bits * 8 = 192 bits + 24 status bits, a total of 216 bits
 
 #### 3. Configuration of control registers  
-2.1 Writing to the register  
 Three bytes of register configuration  
 0b11010110    
 0b11010100
 0b11100000
 
-First command byte: 010r rrrr, where r rrrr is the starting register address.  
-Second byte of the command: 000n nnnn, where n nnnn is the number of registers to be written - 1.  
-Reading from a register, similarly but the first four bits from a byte of the following format
-BYTE 1 = 0010 0000   
-
-Baud rate  
-Assuming the CLK is 2.048 MHz, then tSDECODE (4 tCLK) is 1.96 μs. When SCLK is 16 MHz, one byte can be transmitted in 500 ns. This byte transfer time does not conform to the tSDECODE specification; therefore a delay must be inserted so that the end of the second byte arrives 1.46 µs later.  
-
 #### 4. Description of code ADS_1299.c  
 Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "p"  
-Data is transmitted via Serial with baud rate - 115200  
+Data is transmitted via Serial with a baud rate - 115200  
 
 #### 5. Hardware and Signal processing demonstarations  
 Hardware demonstarations  
