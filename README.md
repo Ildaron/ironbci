@@ -34,7 +34,7 @@ BOM files can be created by [electrical schemes](https://github.com/Ildaron/iron
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 #####  4 Step  
-By [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html) start signal processing.
+By [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html) start signal processing.  
 board_id: 17  
 
 
