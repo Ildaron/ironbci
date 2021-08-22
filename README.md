@@ -46,11 +46,11 @@ Files
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
 SPI2 for communicate with ADS1299  
 UAART4 for send data to HC-12
-2.1.DRDY output - becomes high when conversion starts and low when data is ready  
-2.2  Two ways to read data:    
-      - RDATA C1 - continuous read command;    
-      - Reading RDATA data that requires a command to load an input offset.
-2.3. The amount of input data - 24 bits * 8 = 192 bits + 24 status bits, a total of 216 bits
+2.1.DRDY output - becomes high when conversion starts and low when data is ready    
+2.2  Two ways to read data:      
+      - RDATA C1 - continuous read command;      
+      - Reading RDATA data that requires a command to load an input offset.  
+2.3. The amount of input data - 24 bits * 8 = 192 bits + 24 status bits, a total of 216 bits  
 
 #### 3. Configuration of control registers  
 Three bytes of register configuration  
