@@ -15,7 +15,7 @@
 -  [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
 [GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)
-#### Instructions
+#### Instructions for Do It Yourself
 ##### 1 step   
 [Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files) for PCB boards.  
 An example of our order at [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-96217560494&loc_physical_ms=1009306&matchtype=p&network=g&device=c&devicemodel=&creative=347469560617&keyword=pcbway&placement=&target=&adposition=&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2ps2-PbZhsKTEathEQYGyJbzSM-ZocwmjvOCRQQF-C-VqjU3FY89xoCQAgQAvD_BwE)  
