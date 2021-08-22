@@ -18,18 +18,15 @@ Low-cost brain computer interface with [GNU license](https://github.com/Ildaron/
 #### Instructions
 ##### 1 step   
 [Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files) for PCB boards.  
-Example of our order in [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-96217560494&loc_physical_ms=1009306&matchtype=p&network=g&device=c&devicemodel=&creative=347469560617&keyword=pcbway&placement=&target=&adposition=&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2ps2-PbZhsKTEathEQYGyJbzSM-ZocwmjvOCRQQF-C-VqjU3FY89xoCQAgQAvD_BwE)  
+An example of our order at [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-96217560494&loc_physical_ms=1009306&matchtype=p&network=g&device=c&devicemodel=&creative=347469560617&keyword=pcbway&placement=&target=&adposition=&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2ps2-PbZhsKTEathEQYGyJbzSM-ZocwmjvOCRQQF-C-VqjU3FY89xoCQAgQAvD_BwE)  
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/gerber_DIY.bmp "Gerber")​
 
 #####  2 Step   
 BOM files can be created by [electrical schemes](https://github.com/Ildaron/ironbci/tree/master/electrical_scheme)
 
 #####  3 Step 
-When boards were received   
-Upload [Hex file](https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) to STM32F407VE by ST-LINK V2 RST  
-
-For programm hex file to STM32 can be used - ST-LINK V2 
-Need connect only 4 pins:  
+[Hex file] can be uploaded (https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) to STM32F407VE by ST-LINK V2 RST  
+ With the next 4 pins:  
                         - RST      
                         - TCK    
                         - gnd   
