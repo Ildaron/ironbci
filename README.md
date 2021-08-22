@@ -17,8 +17,8 @@
 Low-cost brain computer interface with [GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)
 #### Instructions
 ##### 1 step   
-Make PCB boards order in PCB manufacturer with presented
-[Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files)  
+
+[Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files) for PCB boards.  
 Example of our order in [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-96217560494&loc_physical_ms=1009306&matchtype=p&network=g&device=c&devicemodel=&creative=347469560617&keyword=pcbway&placement=&target=&adposition=&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2ps2-PbZhsKTEathEQYGyJbzSM-ZocwmjvOCRQQF-C-VqjU3FY89xoCQAgQAvD_BwE)  
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/gerber_DIY.bmp "Gerber")​
 
