@@ -34,19 +34,13 @@ BOM files can be created by [electrical schemes](https://github.com/Ildaron/iron
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 #####  4 Step  
-By [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with  [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html)   start to use device.   
-
-
-   
-
+By [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html) start signal processing.
 board_id: 17  
 
-You can re-write code and create a new hex file if will be necessary  
-Files   
 
+Files   
 [1.ADS_1299.c ](https://github.com/Ildaron/ironbci/blob/master/1.ADS_1299.c) - code for Atollic TrueSTUDIO for STM32 F407VE  
 [1.ADS_1299.ioc](https://github.com/Ildaron/ironbci/blob/master/ads1299.ioc) - file for STM32CubeMX
-
 
 ####  2.  General pin information about ADS1299 signals
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
