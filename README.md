@@ -34,7 +34,7 @@ BOM files can be created by [electrical schemes](https://github.com/Ildaron/iron
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 #####  4 Step  
-Signal processing By [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html).  
+Signal processing by [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html).  
 board_id: 17  
 
 
@@ -45,7 +45,7 @@ Files
 ####  2.  General pin information about ADS1299 signals
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
 SPI2 for communicate with ADS1299  
-UAART4 for send data to HC-12
+UAART4 for send data by HC-12
 2.1.DRDY output - becomes high when conversion starts and low when data is ready    
 2.2  Two ways to read data:      
       - RDATA C1 - continuous read command;      
