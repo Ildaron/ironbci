@@ -46,7 +46,7 @@ Files
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
 SPI2 for communicate with ADS1299  
 UAART4 for send data by HC-12
-2.1.DRDY output - becomes high when conversion starts and low when data is ready    
+2.1.DRDY output -  high when conversion starts    
 2.2  Two ways to read data:      
       - RDATA - continuous read command;      
       - SDATA - on request.  
@@ -60,7 +60,7 @@ Three bytes of register configuration
 
 #### 4. Description of code ADS_1299.c  
 Data transfer - "s", ends - "p"  
-Data is transferred via Serial at a baud rate of 115200 baud.
+Serial with baud rate - 115200.
 
 #### 5. Hardware and Signal processing demonstarations  
 Hardware demonstarations  
