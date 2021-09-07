@@ -48,8 +48,8 @@ SPI2 for communicate with ADS1299
 UAART4 for send data by HC-12
 2.1.DRDY output - becomes high when conversion starts and low when data is ready    
 2.2  Two ways to read data:      
-      - RDATA C1 - continuous read command;      
-      - Reading RDATA data that requires a command to load an input offset.  
+      - RDATA - continuous read command;      
+      - SDATA - on request.  
 2.3. The amount of input data - 24 bits * 8 = 192 bits + 24 status bits, a total of 216 bits  
 
 #### 3. Configuration of control registers  
@@ -59,17 +59,17 @@ Three bytes of register configuration
 0b11100000
 
 #### 4. Description of code ADS_1299.c  
-Data transfer starts after receiving by the microcontroller - "s", ends after receiving - "p"  
-Data is transmitted via Serial with a baud rate - 115200  
+Data transfer - "s", ends - "p"  
+Data is transferred via Serial at a baud rate of 115200 baud.
 
 #### 5. Hardware and Signal processing demonstarations  
 Hardware demonstarations  
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)    
 Signal processing by brainflov via timeflux (https://timeflux.io/)    
-[![Sowtware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)      
+[![Software demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)      
 
 
 #### 6. Citation  
 Original article coming soon  
 #### 7. Contacts  
-For any questions write to me by mail - ildar.o2010@yandex.ru   
+ildar.o2010@yandex.ru   
