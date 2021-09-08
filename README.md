@@ -15,7 +15,7 @@
 -  [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
 [GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)
-#### Instructions for Do It Yourself (DIY)  
+#### Instruction. Do It Yourself (DIY)  
 ##### 1 step   
 [Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files) for PCB boards.  
 An example of our order at [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-96217560494&loc_physical_ms=1009306&matchtype=p&network=g&device=c&devicemodel=&creative=347469560617&keyword=pcbway&placement=&target=&adposition=&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2ps2-PbZhsKTEathEQYGyJbzSM-ZocwmjvOCRQQF-C-VqjU3FY89xoCQAgQAvD_BwE)  
@@ -26,7 +26,7 @@ BOM files can be created by [electrical schemes](https://github.com/Ildaron/iron
 
 #####  3 Step 
 [Hex file](https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) can be uploaded to STM32F407VE by ST-LINK V2 RST  
- With the next 4 pins:  
+ Connection:  
                         - RST      
                         - TCK    
                         - gnd   
@@ -34,7 +34,7 @@ BOM files can be created by [electrical schemes](https://github.com/Ildaron/iron
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
 #####  4 Step  
-Signal processing by [brainflow](https://brainflow.readthedocs.io/en/stable/) software instructions with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html).  
+Signal processing by [brainflow](https://brainflow.readthedocs.io/en/stable/) with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html).  
 board_id: 17  
 
 
@@ -50,7 +50,7 @@ UAART4 for send data by HC-12
 2.2  Two ways to read data:      
       - RDATA - continuous read command;      
       - SDATA - on request.  
-2.3. The amount of input data - 24 bits * 8 = 192 bits + 24 status bits, a total of 216 bits  
+2.3. The amount of input data - 24 * 8 = 192 bits + 24 status bits, a total - 216 bits  
 
 #### 3. Configuration of control registers  
 Three bytes of register configuration  
