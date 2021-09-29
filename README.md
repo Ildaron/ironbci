@@ -15,8 +15,7 @@
 -  [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
 [GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)
-#### How it Work
-##### 1 step   
+#### How it Works  
 [Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files) for PCB boards.  
 [Hex file](https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) can be uploaded to STM32F407VE by ST-LINK V2 RST  
  Connection:  
