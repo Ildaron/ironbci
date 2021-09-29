@@ -61,6 +61,7 @@ Signal processing by brainflov via timeflux (https://timeflux.io/)
 
 
 #### 6. Citation  
-Original article coming soon  
+Rakhmatulin, I., Parfenov, A., Traylor, Z. et al. Low-cost brain computer interface for everyday use. Exp Brain Res (2021). https://doi.org/10.1007/s00221-021-06231-4
+
 #### 7. Contacts  
 ildar.o2010@yandex.ru   
