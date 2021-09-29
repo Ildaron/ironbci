@@ -15,16 +15,9 @@
 -  [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
 [GNU license](https://github.com/Ildaron/ironbci/blob/master/license.txt)
-#### Instruction. Do It Yourself (DIY)  
+#### How it Work
 ##### 1 step   
 [Gerbers files](https://github.com/Ildaron/ironbci/tree/master/gerber_files) for PCB boards.  
-An example of our order at [PCBWAY](https://www.pcbway.com/?adwgc=666&campaignid=172480651&adgroupid=8787904531&feeditemid=&targetid=kwd-96217560494&loc_physical_ms=1009306&matchtype=p&network=g&device=c&devicemodel=&creative=347469560617&keyword=pcbway&placement=&target=&adposition=&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2ps2-PbZhsKTEathEQYGyJbzSM-ZocwmjvOCRQQF-C-VqjU3FY89xoCQAgQAvD_BwE)  
-![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/gerber_DIY.bmp "Gerber")​
-
-#####  2 Step   
-BOM files can be created by [electrical schemes](https://github.com/Ildaron/ironbci/tree/master/electrical_scheme)
-
-#####  3 Step 
 [Hex file](https://github.com/Ildaron/ironbci/blob/master/ironbci.hex) can be uploaded to STM32F407VE by ST-LINK V2 RST  
  Connection:  
                         - RST      
@@ -33,7 +26,6 @@ BOM files can be created by [electrical schemes](https://github.com/Ildaron/iron
                         - TMS    
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
-#####  4 Step  
 Signal processing by [brainflow](https://brainflow.readthedocs.io/en/stable/) with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html).  
 board_id: 17  
 
