@@ -10,7 +10,7 @@
 -  [Configuration of control registers](https://github.com/Ildaron/ironbci#3-configuration-of-control-registers)     
 -  [Description of code ADS_1299.c](https://github.com/Ildaron/ironbci#4-description-of-code-ads_1299c)    
 -  [STM32 programming](https://github.com/Ildaron/ironbci#5-stm32-programming)  
--  [Hardware and Signal processing demonstarations](https://github.com/Ildaron/ironbci#6-hardware-and-signal-processing-demonstarations)     
+-  [Hardware and Signal processing demonstrations](https://github.com/Ildaron/ironbci#6-hardware-and-signal-processing-demonstrations)     
 -  [Citation](https://github.com/Ildaron/ironbci/blob/master/README.md#7-citation)   
 -  [Contacts](https://github.com/Ildaron/ironbci/blob/master/README.md#8-contacts)     
 
@@ -53,8 +53,8 @@ Three bytes of register configuration
 Data transfer - "s", ends - "p"  
 Serial with baud rate - 115200.
 
-#### 5. Hardware and Signal processing demonstarations  
-Hardware demonstarations  
+#### 5. Hardware and Signal processing demonstrations  
+Hardware demonstrations  
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)    
 Signal processing by brainflov via timeflux (https://timeflux.io/)    
 [![Software demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/software.bmp)](https://youtu.be/y1O7FNJLeh4)      
