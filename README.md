@@ -25,7 +25,7 @@
                         - TMS    
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
-Signal processing by [brainflow](https://brainflow.readthedocs.io/en/stable/) with [MIT lisence](https://brainflow.readthedocs.io/en/stable/License.html).  
+Signal processing by [brainflow](https://brainflow.readthedocs.io/en/stable/) with [MIT license](https://brainflow.readthedocs.io/en/stable/License.html).  
 board_id: 15  
 
 
