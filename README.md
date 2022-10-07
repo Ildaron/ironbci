@@ -68,4 +68,4 @@ Rakhmatulin, I., Parfenov, A., Traylor, Z. et al. Low-cost brain computer interf
 
 #### 7. Contacts   
 [linkedin](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)    
-ildar.o2010@yandex.ru   
+ildarr2016@gmail.com  
