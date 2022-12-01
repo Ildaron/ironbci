@@ -1,9 +1,9 @@
-# Brain-Computer Interface ironbci (It is not medical device!!! And can not be used for any medical purposes!!!)
+# Brain-Computer Interface ironbci
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=DIY%20Brain-Computer%20%20interface%20ironbci%20&url=https://github.com/Ildaron/ironbci&hashtags=EEG,biosignals,python,opensource)  [![Hardware demonstrations](https://img.shields.io/badge/Licence-FREE-blue)](https://github.com/Ildaron/ironbci/blob/master/license.txt)        
                             
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view.jpg "general view")​
 
-
+It is not medical device!!! And can not be used for any medical purposes!!!  
 ####  ADS1299 and STM32F407VE 
 -  [How it Works](https://github.com/Ildaron/ironbci/blob/master/README.md#1-how-it-works)  
 -  [Device pinout](https://github.com/Ildaron/ironbci#2--general-pin-information-about-ads1299-signals)   
