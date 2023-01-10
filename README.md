@@ -55,7 +55,7 @@ Serial with baud rate - 115200.
 
 #### 5. DIY. Hardware and Signal processing demonstrations  
 
-How to make order. Instruction.   
+How to make order in PCBWAY. Instruction.   
 [![DIY](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/pcbway.bmp)](https://youtu.be/VQqJwoX9bg0)      
 Hardware demonstrations  
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)    
