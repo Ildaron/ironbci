@@ -27,13 +27,6 @@ It is not medical device!!! And can not be used for any medical purposes!!!
                         - TMS    
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
 
-Signal processing by [brainflow](https://brainflow.readthedocs.io/en/stable/) with [MIT license](https://brainflow.readthedocs.io/en/stable/License.html).  
-board_id: 15  
-
-
-Files   
-[1.ADS_1299.c ](https://github.com/Ildaron/ironbci/blob/master/1.ADS_1299.c) - code for Atollic TrueSTUDIO for STM32 F407VE  
-[1.ADS_1299.ioc](https://github.com/Ildaron/ironbci/blob/master/ads1299.ioc) - file for STM32CubeMX
 
 ####  2.  General pin information about ADS1299 signals
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stm1.bmp "stm32")​  
