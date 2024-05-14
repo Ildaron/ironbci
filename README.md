@@ -47,11 +47,7 @@ Three bytes of register configuration
 #### 4. Description of code ADS_1299.c  
 Data transfer - "s", ends - "p"  
 Serial with baud rate - 115200.
-
-#### 5. DIY. Hardware and Signal processing demonstrations  
-
-How to make order in PCBWAY. Instruction.   
-[![DIY](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/pcbway.bmp)](https://youtu.be/VQqJwoX9bg0)      
+ 
 Hardware demonstrations  
 [![Hardware demonstrations](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/hardware_ironbci.bmp)](https://youtu.be/kfbvYXvBCJk)    
 Signal processing by brainflov via timeflux (https://timeflux.io/)    
