@@ -1,7 +1,7 @@
 # Brain-Computer Interface ironbci
-all updates here https://pieeg.com/  
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=DIY%20Brain-Computer%20%20interface%20ironbci%20&url=https://github.com/Ildaron/ironbci&hashtags=EEG,biosignals,python,opensource)  [![Hardware demonstrations](https://img.shields.io/badge/Licence-FREE-blue)](https://github.com/Ildaron/ironbci/blob/master/license.txt)        
+
+      
                             
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view.jpg "general view")​
 
