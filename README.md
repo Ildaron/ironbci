@@ -1,4 +1,4 @@
-# Brain-Computer Interface ironbci
+# Brain-Computer Interface ironbci (soon will be available in the market)
 
                             
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/general_view.jpg "general view")​
